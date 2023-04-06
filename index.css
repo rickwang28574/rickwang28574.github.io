@@ -1,0 +1,16 @@
+.content{
+    width: 510px;
+    height: 210px;
+}
+.content .left img{
+    width: "20%";
+    height: 200px;
+}
+.content div{
+    width: "20%";
+    height: 200px;
+    float: left;
+    border: 1px;
+ }
+
+ /* border: 1px #0A89F1 solid; */
